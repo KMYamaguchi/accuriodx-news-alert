@@ -1,0 +1,35 @@
+news_api_key: "2b598275e8c24f45a6039cecbf456758"
+
+teams_webhook_url: "https://prod-63.japaneast.logic.azure.com:443/workflows/bfdd5d1685c74b049bf9aa93d6999fcc/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=IQ-72ieqeQZSLi3yvnfx3ukfmZqrg2K4jIhX0Kd4_zM"
+
+keywords:
+  INNOVATION_KEYWORDS:
+    - "革新"
+    - "新技術"
+    - "AI"
+    - "自動化"
+    - "スマート"
+    - "DX"
+    - "デジタル"
+    - "IoT"
+    - "クラウド"
+
+  PROMOTION_KEYWORDS:
+    - "販促"
+    - "チラシ"
+    - "紙媒体"
+    - "印刷物"
+    - "POP"
+    - "DM"
+    - "パーソナライズ"
+    - "プロモーション"
+
+  ACCURIO_KEYWORDS:
+    - "Accurio"
+    - "Konica Minolta"
+    - "デジタル印刷"
+    - "プロダクションプリント"
+    - "印刷機"
+    - "印刷ソリューション"
+
+feedback_file: "data/feedback.json"
